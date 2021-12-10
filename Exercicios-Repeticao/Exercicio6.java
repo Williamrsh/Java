@@ -18,7 +18,7 @@ public class Exercicio6 {
 		}else{
 			do {
 				if(numero%3==0) {
-					cont++;
+				cont++;
 				soma+=numero;
 							
 				}
