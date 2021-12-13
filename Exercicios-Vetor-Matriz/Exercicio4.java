@@ -8,7 +8,6 @@ public class Exercicio4 {
 		
 		float[][] matriz = new float[2][2];
 		float[][] matriz2 = new float[2][2];
-		float[][] matriz3 = new float[2][2];
 		float[][] matrizS = new float[2][2];
 		float[][] matrizD = new float[2][2];
 		int l,c,menu=0;
